@@ -1,0 +1,4 @@
+const whichSchool = function (age){
+  age>13 ? "Elementary School" : (age>=13 && age<=18) ? "Secondary school" : "Lighthouse Labs"
+}
+console.log(function(12))
